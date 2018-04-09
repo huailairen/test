@@ -1,3 +1,3 @@
 ## test 
 FROM nginx
-add a.txt / 
+ADD a.txt / 
